@@ -10,6 +10,14 @@ export default function CastsCrew() {
       title: "Executive Producer" 
     },
     { 
+      name: "Dr Agbainya John Agba", 
+      title: "Associate Producer" 
+    },
+    { 
+      name: "Mr Ahmed Saleh Sarduan", 
+      title: "Associate Producer" 
+    },
+    { 
       name: "Johnmark Mhenga Iyoo ", 
       title: ["Director | ", "Producer | ", "Screenplay"]
     },
