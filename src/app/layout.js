@@ -9,8 +9,8 @@ const figtree = localFont({
 
 
 export const metadata = {
-  title: "Trip Planning",
-  description: "Tailored Trip planning around life's specice moment",
+  title: "Across the Valley",
+  description: " In a world divided by a vast valley, two souls find themselves caught in the tides of fate.",
 };
 
 export default function RootLayout({ children }) {
