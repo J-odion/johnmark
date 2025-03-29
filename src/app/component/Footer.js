@@ -11,43 +11,36 @@ export default function FooterSection() {
             <div className=" z-50 flex flex-col lg:flex-row justify-between w-full text-[#5C5C5C] gap-8 ">
               <div className="flex flex-col w-full justify-center ">
                 <div className=" flex flex-col w-full justify-center items-center lg:flex-row gap-x-16 ">
+                    <a href="https://youtu.be/H0e7uFL2yPI?si=UStfYbbFsVwKGN6w">
                   <div className="flex items-center border border-[#5C5C5C] rounded-lg justify-center py-4 px-8 gap-[24px] ">
-                    <p className=" text-xl font-bold">Stream on Netflix</p>
+
+                    
+                    <p className=" text-xl font-bold">Stream on Youtube</p>
                     <Image
-                      src="/assets/netflix.png"
+                      src="/assets/ytlogo.png"
                       width={80}
                       height={60}
                       className=" rounded-[20px] shadow-lg bg-transparent mx-auto cursor-pointer"
                       alt="Hero Image"
                     />
                   </div>
-                  <div className="flex items-center flex-col gap-6 border border-[#5C5C5C] rounded-lg justify-center py-4 px-8 ">
+                  </a>
+                  <div className="flex items-center gap-6 border border-[#5C5C5C] rounded-lg justify-center py-4 px-8 ">
                     <p className=" text-xl font-bold ">Socials</p>
                     <div className="flex items-center gap-[44px]  ">
                       <a
-                        href="https://www.instagram.com/travel.albatross"
+                        href="https://www.instagram.com/acrossthe_valley?igsh=MXFvd3E1ZW05ZW8wbQ=="
                         className="text-[16px] leading-[20px] font-normal "
                       >
                         <FaInstagram color="#5C5C5C" size={30} />
                       </a>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://www.facebook.com/profile.php?id=61567388660668"
                         className="text-[16px] leading-[20px] font-normal "
                       >
                         <FaFacebook color="#5C5C5C" size={30} />
                       </a>
-                      <a
-                        href="https://www.linkedin.com/"
-                        className="text-[16px] leading-[20px] font-normal "
-                      >
-                        <FaYoutube color="#5C5C5C" size={30} />
-                      </a>
-                      <a
-                        href="https://www.twitter.com/"
-                        className="text-[16px] leading-[20px] font-normal "
-                      >
-                        <FaTiktok color="#5C5C5C" size={30} />
-                      </a>
+                     
                     </div>
                   </div>
                 </div>

@@ -41,8 +41,8 @@ export default function MovieDetails() {
     },
     {
       title: "Synopsis",
-      data: `In a world divided by a vast valley, two souls find themselves caught in the tides of fate. *Ella, a talented artist from the bustling city, seeks inspiration in the serene landscapes of her childhood. Meanwhile, **David*, a rugged and introspective farmer, longs for connection beyond the borders of his isolated life. When their paths cross, they discover an undeniable bond that defies the obstacles separating them.
-            As they navigate their feelings amidst societal expectations and personal doubts, Ella and David must decide whether love is worth the risks that come with crossing the valley.`,
+      data: `Seun is posted to do his National Youth Service Corp(Nysc) in Benue state, with his place of Primary Assignment (PPA) in Buruku local government, where he was warmly and heartedly received by the community people with the approval of the Chief incharge of the community. Not only did Seun found the culture of the Tiv unusually hospitable, he also found the daughter of the Chief Sena valuable enough to be the wife he wants to spend the rest of his life with, but this desire is met with trembling adversity whom would stand his ground to see that his childhood love is not married out to an enstrang corper who thinks He is qualified to marry the chiefs daughter because of the community acceptance.
+WATCH OUT FOR THIS AMAZING LOVE THRILLER THAT WILL BE HITTING YOUR SCREENS SOON.`,
     },
     {
       title: "Platform Availability",
